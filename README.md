@@ -1,8 +1,8 @@
-# DjangoRESTProjeto
+# DjangoRESTProjeto  API_TODO
 
 
 <h3 align="center" >
-   DjangoRESTProjeto: projeto de Web API de pontos turísticos com Python + Django + Django Rest Framework e deploy no Heroku .
+   DjangoRESTProjeto: projeto de Web API de TODO
 </h3>
 
 
